@@ -16,7 +16,7 @@ Then open http://localhost:8000.
 
 ## Personal photo
 
-The portrait section deliberately falls back to the initials **TA** until a verified personal photograph is supplied. Add your own image as `assets/profile.jpg` to replace the initials automatically. The website does **not** use another person's photo or hotlink a restricted LinkedIn image.
+The portfolio hero uses the supplied personal photograph in `assets/profile.webp` (optimized WebP). The page keeps its initials **TA** fallback if the image cannot load. The image is hosted in this repository, not hotlinked from LinkedIn.
 
 ## Deploy on GitHub Pages
 
