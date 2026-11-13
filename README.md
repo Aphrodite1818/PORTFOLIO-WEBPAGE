@@ -20,7 +20,7 @@ The portrait section deliberately falls back to the initials **TA** until a veri
 
 ## Deploy on GitHub Pages
 
-In repository **Settings → Pages**, choose **Deploy from a branch**, then select `main` and `/ (root)`. Once published, the site will be available at:
+GitHub Pages is configured to deploy from the `main` branch at `/ (root)`. Commits to `main` trigger the static site build automatically. The site address is:
 
 https://aphrodite1818.github.io/PORTFOLIO-WEBPAGE/
 
