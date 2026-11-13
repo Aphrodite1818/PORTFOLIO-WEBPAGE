@@ -16,7 +16,7 @@ Then open http://localhost:8000.
 
 ## Personal photo
 
-The portfolio hero uses the supplied personal photograph in `assets/profile.webp` (optimized WebP). The page keeps its initials **TA** fallback if the image cannot load. The image is hosted in this repository, not hotlinked from LinkedIn.
+The portfolio hero uses the exact original JPEG photograph supplied by Taiwo, stored at `assets/profile.jpg` without image editing, resizing, compression, or conversion. Its original bytes are preserved. The page keeps the **TA** initials fallback if the image cannot load. The photograph is hosted directly in this repository.
 
 ## Deploy on GitHub Pages
 
